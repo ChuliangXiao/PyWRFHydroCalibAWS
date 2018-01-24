@@ -7,6 +7,11 @@
 # National Center for Atmospheric Research
 # Research Applications Laboratory.
 
+# Updated by
+# Chuliang Xiao, cxiao@umich.edu
+# Cooperative Institute for Great Lakes Research
+# University of Michigan
+
 import psycopg2
 import sys
 import os
